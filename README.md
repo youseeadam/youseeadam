@@ -42,6 +42,15 @@ Here are some of the core platforms, display partners, and ecosystems I work wit
 
 ---
 
+## 🏕️ Scouting & Volunteering
+
+Outside of the server room, you'll usually find me giving back through Scouting. Helping build the next generation of leaders (and making sure the campfires stay lit) is a huge passion of mine. Here are a few highlights from my time volunteering:
+
+* 🏅 **Honors & Achievements:** Completed Wood Badge, received the District Award of Merit, and proud member of the Order of the Arrow.
+* 🧭 **Leadership Roles:** I am serving as District Commissioner, District Roundtable Commissioner. Previosuly served as Committee Member for a Troop, and Den Leader.
+
+---
+
 ## 📺 Scripts, Tools, & Tutorials
 
 Along with the collection of scripts and ideas you'll find in my repositories below, here are a few videos and guides I have worked on over the years with Logitech:
