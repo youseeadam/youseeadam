@@ -64,4 +64,13 @@ Along with the collection of scripts and ideas you'll find in my repositories be
 * ▶️ **[Sync Setup with Service Now](https://www.youtube.com/watch?v=C-RnVZfKg_A)**
 * ▶️ **[Groups with Sync](https://www.youtube.com/watch?v=P581Cg68pGA)**
 
+---
+
+## 🎯 Hobbies
+
+When I am not solving tech problems or volunteering, I like to go all out on a few other passions:
+
+* 🍖 **Competition BBQ & Teaching:** I love the science and art of smoking meat, competing in BBQ circuits, and teaching others how to master the pit.
+* 🎄 **Extreme Christmas Lighting:** Think *The Great Christmas Light Fight*! I go completely over-the-top with synchronized, elaborate holiday light displays.
+
 Feel free to poke around my repos, and I hope you find what you're looking for!
