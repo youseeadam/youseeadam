@@ -2,7 +2,7 @@
 
 > I traded my personal blog for a GitHub repo—no server backups, no pingbacks, just straight problem-solving. If you're here, you are probably looking for a solution, and you've come to the right place. 
 
-## 🎬 My Career Journey: From the Stage to the Server Room
+## 🎬 My Career Journey: From the Stage to Datcenters and onward...
 
 I've spent most of my career in IT and tech, but I took a pretty unconventional route to get here:
 
@@ -34,12 +34,17 @@ Here are some of the core platforms, display partners, and ecosystems I work wit
 <br>
 [![AppSpace](https://img.shields.io/badge/AppSpace-005E9E?style=for-the-badge)](https://www.appspace.com)
 [![Sony](https://img.shields.io/badge/Sony-000000?style=for-the-badge&logo=sony&logoColor=white)](https://pro.sony)
-[![LG](https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white)](https://www.lg.com/global/business)
+[![LG](https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white)]([https://www.lg.com/global/business](https://www.lg.com/us/business/lg-and-logitech-virtual-meeting-solutions))
 [![Legrand](https://img.shields.io/badge/Legrand-E2231A?style=for-the-badge)](https://www.legrand.com)
-[![Utelogy](https://img.shields.io/badge/Utelogy-00B2E2?style=for-the-badge)](https://www.utelogy.com)
+[![Utelogy](https://img.shields.io/badge/Utelogy-00B2E2?style=for-the-badge)](https://www.utelogy.com/logitech)
 [![Xyte](https://img.shields.io/badge/Xyte-000000?style=for-the-badge)](https://xyte.io)
 [![Ricoh Displays](https://img.shields.io/badge/Ricoh_Displays-CF142B?style=for-the-badge)](https://www.ricoh.com)
-
+[![Optoma Displays](https://img.shields.io/badge/Optoma_Displays-005B9A?style=for-the-badge)](https://www.optoma.com)
+[![Mago.io](https://img.shields.io/badge/Mago.io-4A90E2?style=for-the-badge)](https://mago.io)
+[![Sharp NEC](https://img.shields.io/badge/Sharp_NEC-E60000?style=for-the-badge)](https://www.sharpnecdisplays.us)
+[![bldng.ai](https://img.shields.io/badge/bldng.ai-2E8B57?style=for-the-badge)](https://bldng.ai)
+[![Foot Analytics](https://img.shields.io/badge/Foot_Analytics-FF8C00?style=for-the-badge)](https://footanalytics.com)
+[![Metrikus](https://img.shields.io/badge/Metrikus-191970?style=for-the-badge)](https://metrikus.io)
 ---
 
 ## 🏕️ Scouting & Volunteering
