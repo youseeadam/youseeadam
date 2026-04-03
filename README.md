@@ -32,6 +32,9 @@ Here are some of the core platforms, display partners, and ecosystems I work wit
 
 **Partners & Ecosystems**
 <br>
+[![Asus/Intel Nuc](https://img.shields.io/badge/Nuc-4c7595?style=for-the-badge)](https://www.asus.com/us/displays-desktops/nucs/nuc-mini-pcs/)
+[![Lenvo Core and Mini](https://img.shields.io/badge/Lenovo-e1251b?style=for-the-badge)](https://www.asus.com/us/displays-desktops/nucs/nuc-mini-pcs/)
+[![Dell MicroXE](https://img.shields.io/badge/Dell-0076ce?style=for-the-badge)](https://www.asus.com/us/displays-desktops/nucs/nuc-mini-pcs/)
 [![AppSpace](https://img.shields.io/badge/AppSpace-005E9E?style=for-the-badge)](https://www.appspace.com)
 [![Sony](https://img.shields.io/badge/Sony-000000?style=for-the-badge&logo=sony&logoColor=white)](https://pro.sony)
 [![LG](https://img.shields.io/badge/LG-A50034?style=for-the-badge&logo=lg&logoColor=white)]([https://www.lg.com/global/business](https://www.lg.com/us/business/lg-and-logitech-virtual-meeting-solutions))
