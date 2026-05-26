@@ -1,6 +1,10 @@
 # 👋 Welcome to My Fog!
 
 > I traded my personal blog for a GitHub repo—no server backups, no pingbacks, just a place to keep my nuggets of information. when I was in undergrad at Southern Oregon State, I worked at Britt Festivals for many years.  There were a lot of great events I was part of, from Randy Newman, to Bela Fleck, and more.  But one, Iso and the Bobs have a song called Welcome to my Fog.  There is a line that says "Welcome to my Fog, there is room for you, so come right in". To me that line sums me up rather well.  I have so many things going on in my head, that I want to share.  And this is a good way to start.
+>
+LinkedIn Profile: https://www.linkedin.com/in/adam-berns/  
+I don't use X/Twitter  
+Instagram is filled with BBQ and family photos.  
 
 ## 🎬 My Journey: From the Stage to Datcenters and onward...
 
