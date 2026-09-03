@@ -67,6 +67,7 @@ Outside of the server room, you'll usually find me giving back through Scouting.
 Along with the collection of scripts and ideas you'll find in my repositories below, here are a few videos and guides I have worked on over the years with Logitech:
 
 * 📝 **[Setting up AutoPilot and AutoLogin for Logitech Solutions on Teams Rooms on Windows](https://hub.sync.logitech.com/support/post/setting-up-autopilot-and-autologin-for-logitech-solutions-on-teams-rooms-1tfMNuIHDgRLrVA)**
+* 📝 **[Building a Ubuntu PXE for Windows and Grub](https://github.com/youseeadam/PXE)**
 * ▶️ **[Sync Setup with Service Now](https://www.youtube.com/watch?v=C-RnVZfKg_A)**
 * ▶️ **[Groups with Sync](https://www.youtube.com/watch?v=P581Cg68pGA)**
 
